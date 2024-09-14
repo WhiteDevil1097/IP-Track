@@ -12,9 +12,10 @@
     >>> pkg install git
     >>> git clone https://github.com/WhiteDevil1097/IP-TRACK.git
     >>> pip3 install -r requirements.txt #for macos and linux
-    >>> python IP-TRACK.py
+    >>> cd IP-Track
+    >>> python IP-Track.py
     ``` 
-- Run the IP-TRACK.py file by running <i>python IP-TRACK.py </i> or <i>python IP-TRACK.py</i> on it.
+- Run the IP-Track.py file by running <i>python IP-TRACK.py </i> or <i>python IP-Track.py</i> on it.
 - Cheke all system file if found any virus its removed auto
 - Then cheke full system scan 
 
