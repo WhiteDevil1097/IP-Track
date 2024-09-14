@@ -14,7 +14,7 @@
     >>> pip3 install -r requirements.txt #for macos and linux
     >>> python IP-TRACK.py
     ``` 
-- Run the IP-TRACK.py file by running <i>python IP-TRACK.py </i> or <i>python @Antivirus.py</i> on it.
+- Run the IP-TRACK.py file by running <i>python IP-TRACK.py </i> or <i>python IP-TRACK.py</i> on it.
 - Cheke all system file if found any virus its removed auto
 - Then cheke full system scan 
 
