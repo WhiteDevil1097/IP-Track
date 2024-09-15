@@ -16,8 +16,7 @@
     >>> python IP-Track.py
     ``` 
 - Run the IP-Track.py file by running <i>python IP-TRACK.py </i> or <i>python IP-Track.py</i> on it.
-- Cheke all system file if found any virus its removed auto
-- Then cheke full system scan 
+- Cheke Your Own IP + Were ur on Traveling reall location on google map.
 
 ## Author Info :White_Devil
 YouTube:(https://youtube.com/@hacker_devil-kk6zb?si=F7nqa4qlmyOHaH_n)
