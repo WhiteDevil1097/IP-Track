@@ -1,5 +1,5 @@
 # IP-TRACK
-<img src="IP-TRACK.jpg"><br>
+<img src="IP.jpg"><br>
 >A CLI Get ur location and massage
 
 ## Usage Instructions :
