@@ -10,7 +10,7 @@
 -   ```python
     >>> pkg install python
     >>> pkg install git
-    >>> git clone https://github.com/WhiteDevil1097/IP-TRACK.git
+    >>> git clone https://github.com/WhiteDevil1097/IP-Track.git
     >>> pip3 install -r requirements.txt #for macos and linux
     >>> cd IP-Track
     >>> python IP-Track.py
